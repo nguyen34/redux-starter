@@ -13,5 +13,12 @@
     "webpack": "4.41.6",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.3"
+  },
+  "dependencies": {
+    "eslint": "^8.42.0",
+    "immer": "^10.0.2",
+    "immutable": "^4.3.0",
+    "lodash": "^4.17.21",
+    "redux": "4.0"
   }
 }
